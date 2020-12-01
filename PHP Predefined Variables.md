@@ -7,7 +7,7 @@ PHP Predefined Variables:
 * $_REQUEST
 * $_SESSION
 * $_ENV
-* $_COOKI
+* $_COOKIE
 * $php_errormsg
 * $HTTP_RAW_POST
 * $http_response_header
