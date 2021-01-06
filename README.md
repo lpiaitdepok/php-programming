@@ -6,6 +6,10 @@ Reference:
 
 https://www.php.net/
 
+http://httpd.apache.org/
+
+https://www.mysql.com/
+
 https://stackoverflow.com/
 
 www.hostinger.co.id
