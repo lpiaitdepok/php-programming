@@ -37,6 +37,8 @@ CREATE TABLE `mahasiswa` (
 
 INSERT INTO `mahasiswa` (`id`, `nim`, `nama`, `jenis_kelamin`, `jurusan`) VALUES
 (2, 11112, 'TEDY', 'LAKI-LAKI', 'TEKNIK INFORMATIKA'),
+(3, 11113, 'PUTRI', 'PEREMPUAN', 'TEKNIK INFORMATIKA'),
+
 
 --
 -- Indexes for dumped tables
