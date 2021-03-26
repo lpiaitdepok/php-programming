@@ -9,7 +9,7 @@ include('config.php');
 </head>
 <body>
 	<div>
-		<h1>CRDU PHP MySQLi</h1>
+		<h1>CRUD PHP MySQLi</h1>
 
 		<a href="index.php">Home</a>
 		<a href="tambah.php">Tambah</a>
