@@ -5,3 +5,8 @@ composer -v
 composer -h
 
 ## install composer, membutuhkan PHP_xdebug.dll
+
+## composer folder location:
+C:\Program Files (x86)\ComposerSetup
+C:\Users\user\AppData\Roaming\Composer
+C:\ProgramData\ComposerSetup\bin
