@@ -19,6 +19,11 @@ ketik perintah ini di command prompt
 php -i
 ```
 
+atau ketik perintah ini di command prompt
+```
+where php
+```
+
 put this line into a file and run it on a browser:
 ```php
 <?php
