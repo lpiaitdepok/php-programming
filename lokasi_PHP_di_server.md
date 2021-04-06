@@ -12,3 +12,18 @@ htdocs
 </Directory>
 # Note I would never enable this for all directories on a production server, but locally it is quite useful.
 ```
+
+# check php installed directory:
+ketik perintah ini di command prompt
+```
+php -i
+```
+
+put this line into a file and run it on a browser:
+```php
+<?php
+phpinfo();
+?>
+```
+
+https://stackoverflow.com/, https://neard.io/
