@@ -1,0 +1,7 @@
+## cek composer version:
+composer -v
+
+## menampilkan composer help:
+composer -h
+
+## install composer, membutuhkan PHP_xdebug.dll
