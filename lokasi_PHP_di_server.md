@@ -1,7 +1,7 @@
-#XAMPP:
+# XAMPP:
 htdocs
 
-##enable file directory listing:
+## enable file directory listing:
 ```
 <Directory />
 	Options FollowSymLinks Indexes
