@@ -8,5 +8,5 @@ composer -h
 
 ## composer folder location:
 C:\Program Files (x86)\ComposerSetup
-C:\Users\user\AppData\Roaming\Composer
+C:\Users\user name\AppData\Roaming\Composer
 C:\ProgramData\ComposerSetup\bin
