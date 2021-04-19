@@ -1,5 +1,7 @@
-# XAMPP:
+### XAMPP:
 htdocs
+### Laragon:
+www
 
 ## enable file directory listing:
 ```
