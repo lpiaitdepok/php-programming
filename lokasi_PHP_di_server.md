@@ -1,6 +1,6 @@
 ### XAMPP:
 htdocs
-### Laragon:
+### Laragon, WAMP:
 www
 
 ## enable file directory listing:
