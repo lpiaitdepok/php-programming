@@ -13,6 +13,7 @@ https://www.mysql.com/
 https://stackoverflow.com/
 
 www.hostinger.co.id
+nobledesktop,w3schools
 
 Robin Nixon. Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites. O'Reilly Media
 
