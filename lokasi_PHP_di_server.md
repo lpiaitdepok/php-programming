@@ -4,6 +4,7 @@ htdocs
 www
 
 ## enable file directory listing:
+open httpd.conf, and change or add code like this:
 ```
 <Directory />
 	Options FollowSymLinks Indexes
@@ -16,6 +17,7 @@ www
 ```
 
 # check php installed directory:
+di microsoft windows
 ketik perintah ini di command prompt
 ```
 php -i
