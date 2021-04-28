@@ -1,6 +1,7 @@
 <?php
 $nama_cookie = "pengguna";
 $nilai_cookie = "Tutorial Web";
+// Catatan: Fungsi setcookie() harus dituliskan SEBELUM tag <html>
 setcookie($nama_cookie, $nilai_cookie, time() + (86400 * 30), "/"); // 86400 	= 1 hari
 ?>
 <html>
