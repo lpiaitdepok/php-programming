@@ -35,4 +35,11 @@ phpinfo();
 ?>
 ```
 
+## lokasi file php.ini 
+di microsoft windows
+ketik perintah ini di command prompt
+```
+php --ini
+```
+
 https://stackoverflow.com/, https://neard.io/
