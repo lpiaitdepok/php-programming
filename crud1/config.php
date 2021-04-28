@@ -1,6 +1,6 @@
 <?php
 //koneksi ke database mysql, silahkan di rubah dengan koneksi database sendiri
-$koneksi = mysqli_connect("localhost","root","","databasename");
+$koneksi = mysqli_connect("localhost","root","","tutorialweb_crud");
 
 //cek jika koneksi ke mysql gagal, maka akan tampil pesan berikut
 if (mysqli_connect_errno()){
