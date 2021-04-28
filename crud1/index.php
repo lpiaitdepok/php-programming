@@ -16,6 +16,8 @@ include('config.php');
 	
 		<h2>Daftar Mahasiswa</h2>
 		
+		<hr>
+		
 		<table>
 			<thead>
 				<tr>
@@ -35,7 +37,7 @@ include('config.php');
 				if(mysqli_num_rows($sql) > 0){
 					//membuat variabel $no untuk menyimpan nomor urut
 					$no = 1;
-					//melakukan perulangan while dengan dari dari query $sql
+					//melakukan perulangan while dengan dari query $sql
 					while($data = mysqli_fetch_assoc($sql)){
 						//menampilkan data perulangan
 						echo '
