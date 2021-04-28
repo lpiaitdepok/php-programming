@@ -19,7 +19,7 @@
 		if(isset($_POST['submit'])){
 			$nim			= $_POST['nim'];
 			$nama			= $_POST['nama'];
-			$jenis_kelamin	= $_POST['jenis_kelamin'];
+			$jenis_kelamin	        = $_POST['jenis_kelamin'];
 			$jurusan		= $_POST['jurusan'];
 			
 			$cek = mysqli_query($koneksi, "SELECT * FROM mahasiswa WHERE nim='$nim'") or die(mysqli_error($koneksi));
