@@ -14,6 +14,10 @@ PHP Predefined Variables:
 * $argc
 * $argv
 
+GLOBAL
+STATIC
+Const
+
 Reference:
 https://www.php.net/
 
