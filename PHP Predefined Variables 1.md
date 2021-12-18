@@ -15,7 +15,9 @@ PHP Predefined Variables:
 * $argv
 
 GLOBAL
+
 STATIC
+
 Const
 
 Reference:
