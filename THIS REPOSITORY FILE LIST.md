@@ -29,3 +29,7 @@ $_SERVER['QUERY_STRING']:
 //The count() function is used to return the length (the number of elements) of an array
 //Insert "blue" and "yellow" to the end of an array:
 ```
+
+## check php version.md
+* run from command line
+* to check php 32 or 64 bit version from command line
