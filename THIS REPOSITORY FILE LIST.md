@@ -18,3 +18,14 @@ Const
 
 ## list_all_files
 using array_diff, scandir, and array
+
+## PHP Predefined Variables 2.md
+$_SERVER['QUERY_STRING']:
+
+## array1.php
+```
+//array() function is used to create an array:
+//stores multiple values in array
+//The count() function is used to return the length (the number of elements) of an array
+//Insert "blue" and "yellow" to the end of an array:
+```
