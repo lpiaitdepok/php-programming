@@ -33,3 +33,5 @@ $_SERVER['QUERY_STRING']:
 ## check php version.md
 * run from command line
 * to check php 32 or 64 bit version from command line
+
+## clear-cache.php
